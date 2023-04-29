@@ -39,7 +39,7 @@ body * {
 }
 
 #profile {
-  text-align: center;
+  justify-content: center;
 }
 
 #profile img {
