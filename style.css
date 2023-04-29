@@ -39,13 +39,12 @@ body * {
 }
 
 #profile {
-  align-items: center;
+  justify-content: center;
 }
 
 #profile img {
   width: 112px;
 }
-
 
 #profile p {
   font-weight: 500;
