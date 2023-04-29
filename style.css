@@ -126,9 +126,6 @@ ul li a {
   transition: background 0.2s;
 }
 
-.serv {
-  text-align: center;
-}
 .red {
   display: flex;
   align-content: center;
