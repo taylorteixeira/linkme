@@ -126,7 +126,7 @@ ul li a {
   transition: background 0.2s;
 }
 
-ul li p {
+.serv {
   text-align: center;
 }
 .red {
