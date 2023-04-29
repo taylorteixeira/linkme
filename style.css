@@ -126,7 +126,7 @@ ul li a {
   transition: background 0.2s;
 }
 
-ul li a .red {
+ul li .red {
   display: flex;
   align-content: center;
   justify-content: center;
