@@ -46,7 +46,7 @@ body * {
 
 #profile a {
   font-size: 24px;
-  gap: 32px
+  padding: 0 24px;
 }
 
 #profile img {
