@@ -39,6 +39,7 @@ body * {
 }
 
 #profile {
+  display: flex;
   text-align: center;
 }
 
