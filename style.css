@@ -43,8 +43,12 @@ body * {
   text-align: center;
 }
 
+#profile a {
+  font-size: 24px;
+}
+
 #profile img {
-  width: 112px;
+  width: 100px;
 }
 
 #profile p {
